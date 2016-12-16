@@ -1,0 +1,10 @@
+apply plugin: "java"
+
+subprojects {
+    apply plugin: "java"
+}
+
+clean {
+    delete file("$rootDir/bin")
+    delete file("$rootDir/plugins")
+}

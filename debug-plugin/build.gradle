@@ -1,0 +1,11 @@
+archivesBaseName = "Official-Debug"
+
+buildDir = file("$rootDir/build/debug-plugin")
+
+dependencies {
+    compile project(":engine")
+}
+
+jar {
+    destinationDir = file("$rootDir/plugins")
+}

@@ -1,0 +1,3 @@
+plugin.name=Debug Plugin
+plugin.id=Debug-Official
+plugin.main=com.github.chrisblutz.leplugins.debug.Debug

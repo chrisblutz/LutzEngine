@@ -1,0 +1,24 @@
+Notes.txt
+logs/
+crash-dumps/
+
+# Gradle Files
+
+.gradle/
+build/
+
+# Testing Files
+
+resources/images/
+engine/src/test/
+
+# Java Output Directories
+
+bin/
+plugins/
+
+# IntelliJ IDEA Files
+
+*.iml
+.idea/
+out/

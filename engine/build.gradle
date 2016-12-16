@@ -1,0 +1,8 @@
+archivesBaseName = "LutzEngine"
+version = "0.1"
+
+buildDir = file("$rootDir/build/engine")
+
+jar {
+    destinationDir = file("$rootDir\\bin")
+}
