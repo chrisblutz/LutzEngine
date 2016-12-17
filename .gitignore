@@ -15,7 +15,7 @@ engine/src/test/
 # Java Output Directories
 
 bin/
-plugins/
+/plugins/
 
 # IntelliJ IDEA Files
 
